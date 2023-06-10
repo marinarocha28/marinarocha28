@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @marinarocha28
-- 👀 I’m interested in R programming/Data Science/Machine Learning
-- 🌱 I’m currently learning R and JavaScript
 - 📫 How to reach me - marinarocha2001@hotmail.com
